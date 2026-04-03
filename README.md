@@ -129,10 +129,6 @@ Deploy on:
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
 ---
 
 ## 📌 Future Improvements
