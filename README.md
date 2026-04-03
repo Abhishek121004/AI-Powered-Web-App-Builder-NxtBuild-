@@ -123,11 +123,9 @@ JWT_SECRET=your_secret_key
 
 ### Backend
 
-Deploy on:
+Deployed on:
 
-* Render / Railway / Cyclic
-
----
+* Render
 
 ---
 
